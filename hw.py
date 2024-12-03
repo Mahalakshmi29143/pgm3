@@ -1,3 +1,3 @@
 n = int(input("Enter a number:"))
-a = (n + 1)/ 2
-print(a)
+for i in range(0, n):
+print(i)
